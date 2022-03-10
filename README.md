@@ -1,2 +1,1 @@
-# fc-python
-Foundation of Computing: Python
+# tenspoon-python
